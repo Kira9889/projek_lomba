@@ -22,6 +22,17 @@ const homepage = () => {
       </div>
       <div className='absolute left-[70px] top-[380px] '><img src={card} alt="" /></div>
     </div>
+    <div className='relative'>
+      <div>
+      <div className=''><img src="" alt="" /></div>
+      <div className='flex flex-col'>
+        <ul>
+        <li></li>
+        <li></li>
+        </ul>
+      </div>
+      </div>
+    </div>
     <div className='left-[200px] top-[90px] absolute'><img src={card2} alt="" /></div>
     <div className='absolute right-[10px] top-[110px]'><img src={card3} alt="" /></div>
     <div className='absolute right-[220px] top-[380px]'><img src={card4} alt="" /></div>
